@@ -1,0 +1,126 @@
+ Which Linux command is used to count the total number of lines, words, and characters contained in a file?
+
+count
+wcount
+wc
+countw
+
+
+ Which Linux command is used to remove files?
+
+remove
+rm
+delete
+del
+
+Which Linux command is used to know which directory you are in?
+
+know
+help
+cwd
+pwd
+
+ Which Linux command is used to see all the hidden files?
+
+ls
+ls -h
+ls -a
+dir -a
+
+Which Linux command is used to give a full listing?
+
+ls -F
+ls -h
+ls -a
+dir -a
+
+Which Linux command is used to go back from a folder to the folder before that?
+
+cd..
+cd
+cd/
+chdir
+
+
+If you want to create a new directory named XYZ, which command will be used for this purpose?
+
+cd XYZ
+chdir XYZ
+mkdir XYZ
+md XYZ
+
+Which Linux command is used to create a new file?
+
+create
+file
+tch
+touch
+
+ Which Linux command is used to copy files through the command line?
+
+cp
+copy
+fcp
+filecopy
+
+Which Linux command is used to move files through the command line?
+
+move
+mv
+ren
+loc
+
+ Which is the correct command syntax to rename a file "abc.txt" to "pqr.txt"?
+
+mv abc.txt pqr.txt
+mv pqr.txt abc.txt
+mv -a pqr.txt abc.txt
+mv -all pqr.txt abc.txt
+
+Which Linux command is used to display the content of a file?
+
+display
+show
+echo
+cat
+
+Which Linux command is used to clear the terminal if it gets filled up with too many commands?
+
+clear
+clean
+cls
+clr
+
+ The ___ term stands for the calendar. It displays the current month's calendar with the current day highlighted.
+
+calendar
+calc
+cal
+None of the above
+
+What is the core of the Linux operating system?
+
+Vi Editor
+Command Line
+Terminal
+Kernel
+
+ ……. is a Linux command that displays the current username.
+A) Display
+B) Showuser
+C) Whoami
+D) Currentuser
+
+The ……….. command will copy the contents of directory1 as well as the directory itself to directory2.
+A) cp directory1 directory2
+B) cp directory2 directory1
+C) cp -R directory1 directory2
+D) cp -all directory1 directory2
+
+ The Linux command ………. will delete an empty directory.
+A) rm dir1
+B) rmdir dir1
+C) rmem dir1
+D) rm -r dir1
+
+
